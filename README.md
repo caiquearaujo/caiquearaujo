@@ -2,7 +2,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquearaujo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquearaujo&layout=compact&langs_count=8&theme=graywhite"/>
 </div>
 
 I am a brazilian developer who talks in english and portuguese. After several years I developed a lot of skills, bellow you see them:
