@@ -1,5 +1,10 @@
 ### Hi, I am Caique Araujo and this is my **GitHub** 🖖
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquearaujo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquearaujo&layout=compact&langs_count=8&theme=graywhite"/>
+</div>
+
 I am a brazilian developer who talks in english and portuguese. After several years I developed a lot of skills, bellow you see them:
 
 ### Design
@@ -39,7 +44,7 @@ I am a brazilian developer who talks in english and portuguese. After several ye
 
 <div style="display: inline_block">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-wordmark-plain.svg">
+  <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg">
 </div>
 
@@ -47,7 +52,7 @@ I am a brazilian developer who talks in english and portuguese. After several ye
 
 <div style="display: inline_block">
   <img align="center" alt="apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-wordmark-plain.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 </div>
@@ -59,10 +64,4 @@ I am a brazilian developer who talks in english and portuguese. After several ye
   <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="woocommerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">
-</div>
-
-<div align="center">
-  <a href="https://github.com/caiquearaujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquearaujo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquearaujo&layout=compact&langs_count=8&theme=graywhite"/>
 </div>
