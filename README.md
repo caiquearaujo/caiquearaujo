@@ -1,10 +1,15 @@
 ### Hi, I am Caique Araujo and this is my **GitHub** 🖖
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquearaujo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquearaujo&layout=compact"/>
 </div>
 
-I am a brazilian developer who talks in english and portuguese. After several years I developed a lot of skills, bellow you see them:
+I am a senior Brazilian developer who talks in English and Portuguese. I've been working with development for over 13 years, since then I've worked with languages like PHP, HTML/CSS, JS, TS, NodeJS, React and Vue. I'm always ready to adapt to any new language.
+
+I view software development as more than just programming, but something about solving problems and understanding the global scope. For years I worked with my own software house, and I developed leadership and management skills. 
+
+I'm always looking for new learning and understanding of my limitations. I love to face challenges and solve them with all the tools I have or find someone who can help me with this. Bellow you see all of my skills:
 
 ### Design
 
@@ -61,6 +66,7 @@ I am a brazilian developer who talks in english and portuguese. After several ye
 <div style="display: inline_block">
   <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="woocommerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">
 </div>
