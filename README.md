@@ -1,8 +1,8 @@
 ### Hi, I am Caique Araujo and this is my **GitHub** 🖖
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquearaujo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquearaujo&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caiquearaujo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caiquearaujo&layout=compact"/>
 </div>
 
 I am a senior Brazilian developer who talks in English and Portuguese. I've been working with development for over 13 years, since then I've worked with languages like PHP, HTML/CSS, JS, TS, NodeJS, React and Vue. I'm always ready to adapt to any new language.
